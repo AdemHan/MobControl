@@ -17,4 +17,22 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level3.unity
     guid: 3d6d3408ce6660842ac30c9e54b06bf8
+  - enabled: 1
+    path: "Assets/Scenes/KazanmaEkran\u0131.unity"
+    guid: 34966f4ee1c18ca46ada1ad27a7b4ccc
+  - enabled: 1
+    path: Assets/Scenes/AnaSahne.unity
+    guid: 6b221ec081d036c4ebcd876e372a5db3
+  - enabled: 1
+    path: Assets/Scenes/AyarlarSahnesi.unity
+    guid: a1c38c0de7c10ca42b288f61b7326a33
+  - enabled: 1
+    path: Assets/Scenes/AraSahne.unity
+    guid: aeb7d15e36cd6c5488439c94644dfdb8
+  - enabled: 0
+    path: "Assets/Scenes/KazanmaEkran\u0131 1.unity"
+    guid: acde444bd19be5844837a2efe5f4ac41
+  - enabled: 0
+    path: "Assets/Scenes/KazanmaEkran\u0131 2.unity"
+    guid: 730e2ce7b43683943973c717f47c31e3
   m_configObjects: {}

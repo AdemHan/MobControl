@@ -1,6 +1,7 @@
 using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class GameManager : MonoSingleton<GameManager>
 {
@@ -128,4 +129,24 @@ public class GameManager : MonoSingleton<GameManager>
     {
         return this.enemyGiantHp;
     }
+
+    public void Home()
+    {
+        SceneManager.LoadScene(4);
+    }
+    public void Start()
+    {
+        SceneManager.LoadScene(1);
+    }
+
+    public void Settings()
+    {
+        SceneManager.LoadScene(6);
+    }
+
+    public void Battle()
+    {
+        SceneManager.LoadScene(1);
+    }
+
 }

@@ -23,23 +23,40 @@ public class SceneManagement : MonoBehaviour
         SceneManager.LoadScene(1);
     }
 
-    public void Settings()
+    public void Home1()
     {
-        SceneManager.LoadScene(5);
+        SceneManager.LoadScene(8);
     }
 
-    public void Battle()
+    public void Settings()
     {
         SceneManager.LoadScene(4);
     }
 
-    public void Next()
+    public void Battle()
     {
         SceneManager.LoadScene(6);
+    } 
+
+    public void Battle1()
+    {
+        SceneManager.LoadScene(7);
+    }
+
+    public void Battle2()
+    {
+        SceneManager.LoadScene(5);
+    }
+
+    public void Next()
+    {
+        SceneManager.LoadScene(5);
     }
 
     public void Next1()
     {
-        SceneManager.LoadScene(8);
+        SceneManager.LoadScene(7);
     }
+
+
 }

@@ -153,6 +153,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   towerDestination: {x: 0, y: 0, z: 0}
+  currentLevel: 0
+  nextLevel: 0
 --- !u!4 &441005802
 Transform:
   m_ObjectHideFlags: 0

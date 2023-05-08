@@ -130,23 +130,4 @@ public class GameManager : MonoSingleton<GameManager>
         return this.enemyGiantHp;
     }
 
-    public void Home()
-    {
-        SceneManager.LoadScene(4);
-    }
-    public void Start()
-    {
-        SceneManager.LoadScene(1);
-    }
-
-    public void Settings()
-    {
-        SceneManager.LoadScene(6);
-    }
-
-    public void Battle()
-    {
-        SceneManager.LoadScene(1);
-    }
-
 }
